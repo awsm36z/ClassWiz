@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`First run screens snapshots initial first run screen renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    accessibilityIgnoresInvertColors={true}
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "height": 1334,
+        "justifyContent": "center",
+        "left": 0,
+        "top": 0,
+        "width": 750,
+      }
+    }
+  >
+    <Image
+      source={1}
+      style={
+        Array [
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          Object {
+            "height": 1334,
+            "width": 750,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      ID="AppBanner"
+    >
+      <Text>
+        Welcome to QuranConnect...
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 150,
+        }
+      }
+    />
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#efdecc",
+          "borderRadius": 30,
+          "justifyContent": "center",
+          "marginBottom": 10,
+          "marginLeft": 10,
+          "marginRight": 10,
+          "marginTop": 10,
+          "opacity": 1,
+          "paddingBottom": 7,
+          "paddingLeft": 21,
+          "paddingRight": 21,
+          "paddingTop": 7,
+          "textAlign": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#937f6b",
+          }
+        }
+      >
+        I am a teacher
+      </Text>
+    </View>
+  </View>
+</View>
+`;
