@@ -1,7 +1,7 @@
 # ClassWiz - Mobile App 🎓📱
 
 **Welcome to the ClassWiz mobile app repository!**  
-ClassWiz is a classroom management app designed to simplify and enhance the educational experience for teachers and students. With tools for managing lessons, assignments, and collaboration, ClassWiz helps create a productive and engaging learning environment.
+ClassWiz is a classroom management app designed to simplify and enhance the educational experience for teachers and students. I built it with passion to serve the amazing teachers and students in Sunday schools and afterschool programs. It helps teachers and students manage lessons, assignments, and collaboration.
 
 ---
 
@@ -21,7 +21,7 @@ ClassWiz was created by **Yassine El Yacoubi**.
 It has been successfully used by Sunday schools and after-school classrooms, reaching **hundreds of active students**.
 
 Check out more of Yassine El Yacoubi's work:
-- **Blog**: [Yassine El Yacoubi Blog on Medium](https://medium.com/@yassine.elyacoub/list/yassine-el-yacoubi-blog-llm-topics-4b03e76b7d2d)
+- **Blog**: [Check out my blog articles on Medium](https://medium.com/@yassine.elyacoub/list/yassine-el-yacoubi-blog-llm-topics-4b03e76b7d2d)
 - **Company**: [MusAim AI](https://musaim.ai)
 
 ---
